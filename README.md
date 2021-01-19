@@ -1,1 +1,1 @@
-# multiple_regression_modeling
+The code enables multiple regression modeling in R.
